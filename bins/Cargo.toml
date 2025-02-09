@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [[bin]]
-name = "hello"
-path = "src/bin/hello.rs"
+name = "hi"
+path = "src/bin/hi.rs"
 
 [dependencies]
