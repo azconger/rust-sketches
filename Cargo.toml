@@ -1,0 +1,14 @@
+[workspace]
+members = [
+  "bins",       # Simple bins
+  "libs/*",
+  "projects/*"
+]
+
+[package]
+name = "rust-sketches"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
