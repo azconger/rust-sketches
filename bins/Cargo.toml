@@ -7,4 +7,10 @@ edition = "2021"
 name = "hi"
 path = "src/bin/hi.rs"
 
+[[bin]]
+name = "ownership"
+path = "src/bin/ownership.rs"
+
+
 [dependencies]
+rand = "0.9.0"
